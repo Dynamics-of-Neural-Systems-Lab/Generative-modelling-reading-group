@@ -12,7 +12,7 @@ Reading group dedicated to understanding the fundamental advances in generative 
 
 **Rules:**
 
-1) We pick papers of general interest (i.e., no heavy neuro or molecular biology papers unless they truly introduce a general idea beyond the field)
+1) We pick papers of general interest (i.e., no heavy neuro or molecular biology papers unless they truly introduce a general idea)
 2) Everyone reads the paper beforehand
 3) One person presents with slides
 4) Everyone asks questions to understand the paper
