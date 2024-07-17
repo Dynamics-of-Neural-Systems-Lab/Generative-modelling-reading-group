@@ -1,6 +1,6 @@
 # Past reading list
 
-| Month    | Savings |
+| Date    | Savings |
 | -------- | ------- |
 | January  | $250    |
 | February | $80     |
