@@ -2,9 +2,13 @@
 
 Reading group dedicated to understanding the fundamental advances in generative modelling, identifying connections and new research directions.
 
-**When:** Wednesday at 11 am.
+**When:** Wednesdays at 11 am.
 
 **Zoom link** (only if you really cannot make it in person): ![https://mit.zoom.us/j/97422870792](https://mit.zoom.us/j/97422870792).
+
+**Recording:** generally not recorded, but please ask the next presenter to record if you cannot make it.
+
+**Important:** Zoom link and recording should not be a regular excuse not to attend.
 
 **Rules:**
 
