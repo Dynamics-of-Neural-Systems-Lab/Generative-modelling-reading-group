@@ -1,7 +1,6 @@
 # Past reading list
 
-| Date    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| Date    | Paper | Presenter | Link |
+| -------- | ------- | ------- | ------- |
+| 2024.07.17  | Kingma, Welling, Auto-Encoding Variational Bayes, 2014   | Adam | ![link](https://arxiv.org/abs/1312.6114) |
+| 2024.07.24 | Sohl-Dickstein et al. 2018     | Joel | ![link](https://arxiv.org/abs/1503.03585) |
