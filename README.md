@@ -10,11 +10,11 @@ Reading group dedicated to understanding the fundamental advances in generative 
 
 **Important:** Zoom link and recording should not be a regular excuse not to attend.
 
-**Rules:**
+**Rules and guidelines:**
 
 1) We pick papers of general interest (i.e., no heavy neuro or molecular biology papers unless they truly introduce a general idea)
 2) Everyone reads the paper beforehand
 3) One person presents with slides
-4) Everyone asks questions to understand the paper
-5) We break up into groups of 2-3 and collect subjective perspectives on the topic
-6) We reconvene to share ideas and identify promising research directions
+5) Everyone asks questions to understand the paper
+6) We break up into groups of 2-3 and collect subjective perspectives on the topic
+7) We reconvene to share ideas and identify promising research directions
