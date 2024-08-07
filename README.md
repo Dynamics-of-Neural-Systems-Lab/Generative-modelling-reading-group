@@ -6,6 +6,8 @@ Reading group dedicated to understanding the fundamental advances in generative 
 
 **Zoom link** (only if you really cannot make it in person): ![https://mit.zoom.us/j/97422870792](https://mit.zoom.us/j/97422870792).
 
+**Google Link** https://meet.google.com/qbz-gpes-gmg?authuser=0 
+
 **Recording:** generally not recorded, but please ask the next presenter to record if you cannot make it.
 
 **Important:** Zoom link and recording should not be a regular excuse not to attend.
