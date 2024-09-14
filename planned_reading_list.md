@@ -8,6 +8,7 @@
 | Bengio et al., 2021, GFlowNets | Moritz? |  ![paper](https://proceedings.neurips.cc/paper/2021/hash/e614f646836aaed9f89ce58e837e2310-Abstract.html) ![tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3) | 
 
 **Scaling laws**
+
 | Kaplan et al., Scaling laws  | ? | ![link](https://arxiv.org/abs/2001.08361) ![link](https://www.youtube.com/watch?v=5eqRuVp65eY)|
 | Brown et al., LLMs are few-shot learners (GPT3)  | ? | ![link](https://arxiv.org/abs/2005.14165)| 
 | Henighan et al., Scaling laws for autoregressive models  | ? | ![link](https://arxiv.org/abs/2010.14701)| 
