@@ -4,7 +4,7 @@ Reading group dedicated to understanding the fundamental advances in generative 
 
 **When:** Wednesdays at 11 am.
 
-**Zoom link** (only if you really cannot make it in person): ![https://mit.zoom.us/j/97422870792](https://mit.zoom.us/j/97422870792).
+**Zoom link** (only if you really cannot make it in person): [https://mit.zoom.us/j/97422870792](https://mit.zoom.us/j/97422870792).
 
 **Google Link** https://meet.google.com/qbz-gpes-gmg?authuser=0 
 
