@@ -7,3 +7,4 @@
 | 2024-07-31 | Recap of Markov Chains and Stochastic Differential Equations (SDEs) | Daria, Albert and Joel | [link](https://doi.org/10.1007/978-3-030-72515-0) |
 | 2024-08-07 | Recap of SDEs and the Fokker-Planck Equation | Joel | [link](https://doi.org/10.1007/978-3-030-72515-0) |
 | 2024-08-14 | Hinton et al. The "Wake-Sleep" Algorithm for Unsupervised Neural Networks | Moritz | [link](https://www.science.org/doi/10.1126/science.7761831) |
+| 2024-08-27 | Dayan, Hinton, Neal. The Helmholtz Machine | Varun | [link](https://www.gatsby.ucl.ac.uk/~dayan/papers/hm95.pdf) |
