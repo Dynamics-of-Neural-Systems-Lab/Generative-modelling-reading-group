@@ -12,7 +12,7 @@
 
 | Paper | Potential presenter | Link |
 | ------- | ------- | ------- |
-| Kaplan et al., Scaling laws  | ? | [link](https://arxiv.org/abs/2001.08361) ![link](https://www.youtube.com/watch?v=5eqRuVp65eY)|
+| Kaplan et al., Scaling laws  | ? | [link](https://arxiv.org/abs/2001.08361) [link](https://www.youtube.com/watch?v=5eqRuVp65eY)|
 | Brown et al., LLMs are few-shot learners (GPT3)  | ? | [link](https://arxiv.org/abs/2005.14165)| 
 | Henighan et al., Scaling laws for autoregressive models  | ? | [link](https://arxiv.org/abs/2010.14701)| 
 | Hoffmann et al., Compute optimal LLMs  | ? | [link](https://arxiv.org/abs/2203.15556)| 
