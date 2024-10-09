@@ -9,3 +9,4 @@
 | 2024-08-14 | Hinton et al. The "Wake-Sleep" Algorithm for Unsupervised Neural Networks | Moritz | [link](https://www.science.org/doi/10.1126/science.7761831) | |
 | 2024-08-27 | Dayan, Hinton, Neal. The Helmholtz Machine | Varun | [link](https://www.gatsby.ucl.ac.uk/~dayan/papers/hm95.pdf) | [issue](https://github.com/Dynamics-of-Neural-Systems-Lab/Generative-modelling-reading-group/issues/8) |
 | 2024-09-18 | Goodfellow et al., Generative Adversarial Networks | Raphael | [paper](https://arxiv.org/abs/1406.2661) | [issue](https://github.com/Dynamics-of-Neural-Systems-Lab/Generative-modelling-reading-group/issues/10)
+| 2024-10-09 | NeuralODEs (second round) | Adam | See Issues for paper list
