@@ -12,3 +12,4 @@
 | 2024-09-25 | Bengio et al., Deep Generative Stochastic Networks Trainable by Backprop | Animesh | [paper](https://arxiv.org/abs/1306.1091) | [issue](https://github.com/Dynamics-of-Neural-Systems-Lab/Generative-modelling-reading-group/issues/12)
 | 2024-10-02 | Chen et al., Neural Ordinary Differential Equations | Albert | [paper](https://arxiv.org/abs/1806.07366) | [issue](https://github.com/Dynamics-of-Neural-Systems-Lab/Generative-modelling-reading-group/issues/14)
 | 2024-10-09 | NeuralODEs (second round) | Adam | See Issues for paper list | [issue](https://github.com/Dynamics-of-Neural-Systems-Lab/Generative-modelling-reading-group/issues/14)
+| 2024-10-16 | Normalizing Flows (Real NVP): Dinh, Sohl-Dickstein, Bengio; ICLR 2017 | Joel, Varun | [paper](https://arxiv.org/pdf/1605.08803) | [issue](https://github.com/Dynamics-of-Neural-Systems-Lab/Generative-modelling-reading-group/issues/17)
