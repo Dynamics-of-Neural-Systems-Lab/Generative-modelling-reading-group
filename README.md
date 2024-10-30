@@ -21,7 +21,8 @@ Reading group dedicated to understanding the fundamental advances in generative 
 6) We break up into groups of 2-3 and collect subjective perspectives on the topic
 7) We reconvene to share ideas and identify promising research directions
 8) Communication works via GitHub issues (one issue per paper) and discussions (everything else). Make sure to enable notifications for these two parts in the repository
-   <img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/574d7399-778f-40de-8f0b-911d7818082a)" width="100">
+
+   <img src="https://github.com/user-attachments/assets/574d7399-778f-40de-8f0b-911d7818082a" width="200">
    
 
 
