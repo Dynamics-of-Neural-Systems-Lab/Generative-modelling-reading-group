@@ -20,6 +20,10 @@ Reading group dedicated to understanding the fundamental advances in generative 
 5) Everyone asks questions to understand the paper
 6) We break up into groups of 2-3 and collect subjective perspectives on the topic
 7) We reconvene to share ideas and identify promising research directions
+8) Communication works via GitHub issues (one issue per paper) and discussions (everything else). Make sure to enable notifications for these two parts in the repository
+   <img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/574d7399-778f-40de-8f0b-911d7818082a)" width="100">
+   
+
 
 ## Tips for an effective presentation
 
@@ -29,3 +33,4 @@ Reading group dedicated to understanding the fundamental advances in generative 
 4) Examples, examples. Examples are essential to understanding any theory, but in ML, this is twice as true because experiments usually indicate the type of data the algorithm is designed to work on.
 5) Say what you have said. Conclude with a slide that describes how the innovations fit in the bigger picture.
 6) Raise points of discussion. If you have found something difficult to understand, chances are those bits are worth discussing.
+
