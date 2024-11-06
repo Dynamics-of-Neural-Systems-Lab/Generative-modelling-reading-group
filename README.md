@@ -28,6 +28,7 @@ Reading group dedicated to understanding the fundamental advances in generative 
 
 ## Tips for an effective presentation
 
+0) Focus on the paper that was agreed on and take enough time to prepare adequately (e.g. 2 hours every day in the week before the meeting).
 1) Say what you will say. Have an up-front slide describing the take-home messages and why the paper should be worth remembering.
 2) Link the paper to other papers (mathematically and conceptually), especially those that have already been covered in previous sessions.
 3) Either explain something properly or leave it out. This is especially true for mathematical innovations. A formula will be forgotten, but explaining the core idea and, in many cases, the proof can be very insightful.
