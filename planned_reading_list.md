@@ -17,3 +17,4 @@
 | Henighan et al., Scaling laws for autoregressive models  | ? | [link](https://arxiv.org/abs/2010.14701)| 
 | Hoffmann et al., Compute optimal LLMs  | ? | [link](https://arxiv.org/abs/2203.15556)| 
 | Bahri et al., Explaining scaling laws | ? | [link](https://arxiv.org/html/2102.06701v2)| 
+| Sorscher et al., Beyond neural scaling laws | ? | [link](https://arxiv.org/abs/2206.14486)
