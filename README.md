@@ -1,15 +1,6 @@
 # Generative-modelling-reading-group
 
-Reading group dedicated to learning theoretical and practical foundations of GenAI, allowing us to integrate it with own research
-
-
-
-
-
-
-
-
-
+## Reading group dedicated to learning theoretical and practical foundations of GenAI, allowing us to integrate it with own research
 
 **When:** Wednesdays at 11 am.
 
@@ -51,7 +42,7 @@ Reading group dedicated to learning theoretical and practical foundations of Gen
 5) Say what you have said. Conclude with a slide that describes how the innovations fit in the bigger picture.
 6) Raise points of discussion. If you have found something difficult to understand, chances are those bits are worth discussing.
 
-Admin team:  
+## Admin team:  
   
 Joel: 
 * Auxiliary chair,
