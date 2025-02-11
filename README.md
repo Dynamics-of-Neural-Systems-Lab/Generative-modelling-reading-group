@@ -1,16 +1,29 @@
 # Generative-modelling-reading-group
 
-Reading group dedicated to understanding the fundamental advances in generative modelling, identifying connections and new research directions.
+Reading group dedicated to learning theoretical and practical foundations of GenAI, allowing us to integrate it with own research
+
+
+
+
+
+
+
+
+
 
 **When:** Wednesdays at 11 am.
 
 **When:** AI Institute meeting room.
 
-**Zoom link** (only if you really cannot make it in person): [https://mit.zoom.us/j/97422870792](https://mit.zoom.us/j/97422870792).
+**Zoom link** Deprecated, planned to be cancelled, (only if you really cannot make it in person): [https://mit.zoom.us/j/97422870792](https://mit.zoom.us/j/97422870792).
 
-**Recording:** generally not recorded, but please ask the next presenter to record if you cannot make it.
+**Recording:** Deprecated, planned to be cancelled, generally not recorded, ask the next presenter to record if you really cannot make it.
 
-**Important:** Zoom link and recording should not be a regular excuse not to attend.
+**Important:** Zoom link and recording should not be a regular excuse not to attend, and will soon become impossible.
+
+(Exceptional permission to use zoom can be made for very long-term attendants)
+
+
 
 ## Rules and guidelines
 
@@ -23,7 +36,9 @@ Reading group dedicated to understanding the fundamental advances in generative 
 8) Communication works via GitHub issues (one issue per paper) and discussions (everything else). Make sure to enable notifications for these two parts in the repository
 
    <img src="https://github.com/user-attachments/assets/574d7399-778f-40de-8f0b-911d7818082a" width="200">
-   
+9) The presenter should moderate, i.e. steer the discussion (avoid derailing)
+10) Joel (@SeasonsOfTheSun) is permanent auxiliary moderator
+11) Outreach/Recruiting for the club is currently only word-of-mouth, we will reevaluate in the future   
 
 
 ## Tips for an effective presentation
@@ -35,4 +50,18 @@ Reading group dedicated to understanding the fundamental advances in generative 
 4) Examples, examples. Examples are essential to understanding any theory, but in ML, this is twice as true because experiments usually indicate the type of data the algorithm is designed to work on.
 5) Say what you have said. Conclude with a slide that describes how the innovations fit in the bigger picture.
 6) Raise points of discussion. If you have found something difficult to understand, chances are those bits are worth discussing.
+
+Admin team:  
+  
+Joel: 
+* Auxiliary chair,
+* Curating materials for making a lecture course,
+* Contribute to MedUni course registration.
+  
+Moritz:
+* General GitHub Orga.
+  
+Albert: 
+* Maintain monthly GH discussion feedback,	
+* Contribute to MedUni course registration.
 
